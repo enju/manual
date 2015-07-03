@@ -1,6 +1,8 @@
 ---
 layout: page
 title: マニュアル一覧
+redirect_to:
+  - http://next-l.github.io/manual/
 ---
 ## Enjuマニュアル一覧 <i class="icon-book"> </i>
 

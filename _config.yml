@@ -9,6 +9,9 @@ author :
   twitter : enju_library
   feedburner : false
 
+gems:
+  - jekyll-redirect-from
+
 markdown: rdiscount
 markdown: kramdown
 
